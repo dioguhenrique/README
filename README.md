@@ -1,10 +1,12 @@
 # Sobre mim
 
-Olá! Sou enfermeiro sanitarista, doutorando em Enfermagem em Saúde Pública pela Universidade de São Paulo (USP) e pós-graduando em Estatística para Ciência de Dados pela PUC Minas. Atuo com análise de dados em saúde pública desde 2019, com experiência na extração, tratamento e análise de dados epidemiológicos, especialmente sobre doenças transmissíveis.
+Olá! Prazer,
+
+Sou enfermeiro sanitarista, doutorando em Enfermagem em Saúde Pública pela Universidade de São Paulo (USP) e pós-graduando em Estatística para Ciência de Dados pela PUC Minas. Atuo com análise de dados em saúde pública desde 2019, com experiência na extração, tratamento e análise de dados epidemiológicos, especialmente sobre doenças transmissíveis.
 
 Tenho interesse especial em análise estatística e modelagem espacial, com aplicação de métodos como regressão espacial, análise de varredura, índice de Moran e modelos bayesianos espaço-temporais (INLA). Também utilizo ferramentas como R, QGIS, Excel (incluindo planilhas dinâmicas) e SQL.
 
-📄 [Acesse meu currículo Lattes](LINK_DO_LATTES_AQUI)
+📄 [Acesse meu currículo Lattes](http://lattes.cnpq.br/4818901151705563)
 
 ---
 
