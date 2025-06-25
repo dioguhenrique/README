@@ -1,37 +1,44 @@
-Sobre
+# Sobre mim
 
-Olá! Prazer,
+Olá! Sou enfermeiro sanitarista, doutorando em Enfermagem em Saúde Pública pela Universidade de São Paulo (USP) e pós-graduando em Estatística para Ciência de Dados pela PUC Minas. Atuo com análise de dados em saúde pública desde 2019, com experiência na extração, tratamento e análise de dados epidemiológicos, especialmente sobre doenças transmissíveis.
 
-Sou enfermeiro sanitarista, doutorando em Enfermagem em Saúde Pública pela Universidade de São Paulo (USP) e pós-graduando em Estatística para Ciência de Dados pela PUC Minas. Atuo na área de epidemiologia, com foco em análise de dados desde 2019, quando iniciei um estágio na vigilância epidemiológica do município de Recife-PE.
-Na residência, aprofundei minha atuação em extração, tratamento e análise de dados, além da construção de indicadores relacionados a doenças transmissíveis. Foi também nesse período que iniciei minha trajetória em análises estatísticas, que hoje é parte central do meu trabalho.
-Atuo ainda com análise espacial, desenvolvendo mapeamento de doenças, análises de varredura espacial, índice de Moran, regressões espaciais e outros métodos. Na minha tese de doutorado, aplico modelos bayesianos espaço-temporais utilizando a metodologia INLA para análise espacial na saúde pública.
-Tenho publicações e outras contribuições na área da pesquisa, que podem ser acessadas pelo link do meu currículo Lattes ao final desta página.
+Tenho interesse especial em análise estatística e modelagem espacial, com aplicação de métodos como regressão espacial, análise de varredura, índice de Moran e modelos bayesianos espaço-temporais (INLA). Também utilizo ferramentas como R, QGIS, Excel (incluindo planilhas dinâmicas) e SQL.
 
+📄 [Acesse meu currículo Lattes](LINK_DO_LATTES_AQUI)
 
-🎓 Formação Acadêmica
-	•	Doutorando em Enfermagem em Saúde Pública — Universidade de São Paulo (USP) (em andamento)
-•	Pós-graduação em Estatística para Ciência de Dados — PUC Minas (em andamento)
-•	Especialização em Saúde Pública com Ênfase em Vigilância em Saúde — Faculdade Holística (2023–2024)
-•	Sanitarista — Residência Multiprofissional em Saúde Coletiva — Instituto Aggeu Magalhães — Fiocruz Pernambuco (2022–2024)
-•	Aperfeiçoamento em Saúde Pública — Faculdade Metropolitana do Estado de São Paulo (2021)
-•	Bacharel em Enfermagem — Centro Universitário Estácio do Recife (2016–2020)
+---
 
+## 🎓 Formação Acadêmica
 
-🧠 Áreas de Interesse
-•	Análise de dados em saúde pública e áreas afins
-•	Estatística
-•	Análise e modelagem espacial e espaço-temporal
-•	Ciência de dados aplicada à saúde pública
-•	Epidemiologia de doenças transmissíveis
+- **Doutorado em Enfermagem em Saúde Pública** — USP (em andamento)  
+- **Pós-graduação em Estatística e Ciência de Dados** — PUC Minas (em andamento)  
+- **Especialização em Saúde Pública com Ênfase em Vigilância em Saúde** — Faculdade Holística (2023–2024)  
+- **Residência Multiprofissional em Saúde Coletiva** — Fiocruz Pernambuco (2022–2024)  
+- **Aperfeiçoamento em Saúde Pública** — Faculdade Metropolitana do Estado de São Paulo (2021)  
+- **Bacharelado em Enfermagem** — Estácio do Recife (2016–2020)  
 
+---
 
-🛠️ Habilidades Técnicas
-•	R — análise estatística, epidemiológica e espacial
-•	QGIS — análise espacial e construção de mapas
-•	SaTScan — varredura espacial e espaço-temporal
-•	Excel avançado — organização e tratamento de dados, automações e construção de dashboards simples
+## 🛠️ Habilidades Técnicas
 
+- **R** — análise estatística, epidemiológica e espacial  
+- **SQL** — extração, manipulação e organização de dados  
+- **QGIS** — construção de mapas e análise espacial  
+  - **SaTScan** — análise de varredura espacial e espaço-temporal  
+- **Excel Avançado** — tratamento de dados, fórmulas e planilhas dinâmicas  
 
-🎯 Objetivo Profissional
+---
 
-Atuar em áreas que integrem ciência de dados, estatística, epidemiologia e análise espacial aplicada à saúde.
+## 🧠 Áreas de Interesse
+
+- Análise de dados em saúde pública  
+- Estatística aplicada  
+- Modelagem espacial e espaço-temporal  
+- Epidemiologia de doenças transmissíveis  
+- Ciência de dados aplicada à saúde  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar em projetos e iniciativas que integrem ciência de dados, estatística, epidemiologia e análise espacial com foco em saúde pública.
